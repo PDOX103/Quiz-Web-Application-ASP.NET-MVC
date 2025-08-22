@@ -1,0 +1,58 @@
+﻿@model QuizApp.Models.QuizSubmission
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Quiz Result</h3>
+<p>Your Score: <strong>@Model.Score / @Model.Questions.Count</strong></p>
+
+@foreach (var q in Model.Questions)
+{
+    var userAnswer = Model.UserAnswers.ContainsKey(q.Id) ? Model.UserAnswers[q.Id] : -1;
+    <div class="card mt-3 p-3" style="background-color: #FFFFFC">
+        <p><strong>(@q.Id) @q.Text</strong></p>
+        @for (int i = 0; i < q.Options.Count; i++)
+        {
+            var cssClass = "";
+            var symbol = "";
+
+            if (i == q.CorrectOptionIndex)
+            {
+                cssClass = "text-success fw-bold";
+                if (i == userAnswer)
+                {
+                    symbol = "✓";
+                }
+            }
+
+            if (i == userAnswer && i != q.CorrectOptionIndex)
+            {
+                cssClass = "text-danger fw-bold"; 
+                symbol = "✗";  
+            }
+
+            <p class="@cssClass">@q.Options[i] @symbol</p>
+        }
+        <p><strong>[Note] : @q.Explanation</strong></p>
+
+    </div>
+}
+
+<div class="text-center mt-4">
+    <a asp-controller="Home" asp-action="Index" class="btn home-btn">Go Home</a>
+</div>
+
+<style>
+    .home-btn {
+        background-color: #4c94fc;
+        color: black;
+        border: none;
+        padding: 10px 30px;
+        transition: background-color 0.3s ease;
+    }
+
+        .home-btn:hover {
+            background-color: #ee3e38;
+            color: white;
+        }
+</style>

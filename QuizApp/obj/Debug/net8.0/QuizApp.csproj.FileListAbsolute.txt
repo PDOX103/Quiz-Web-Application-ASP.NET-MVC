@@ -1,0 +1,132 @@
+F:\cse\3.2\SD\QuizApp\QuizApp\bin\Debug\net8.0\appsettings.Development.json
+F:\cse\3.2\SD\QuizApp\QuizApp\bin\Debug\net8.0\appsettings.json
+F:\cse\3.2\SD\QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.staticwebassets.runtime.json
+F:\cse\3.2\SD\QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.staticwebassets.endpoints.json
+F:\cse\3.2\SD\QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.exe
+F:\cse\3.2\SD\QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.deps.json
+F:\cse\3.2\SD\QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.runtimeconfig.json
+F:\cse\3.2\SD\QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.dll
+F:\cse\3.2\SD\QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.pdb
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.AssemblyInfoInputs.cache
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.AssemblyInfo.cs
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.csproj.CoreCompileInputs.cache
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.MvcApplicationPartsAssemblyInfo.cache
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.RazorAssemblyInfo.cache
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.RazorAssemblyInfo.cs
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\scopedcss\bundle\QuizApp.styles.css
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\scopedcss\projectbundle\QuizApp.bundle.scp.css
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.build.json
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.development.json
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.dll
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\refint\QuizApp.dll
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.pdb
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.genruntimeconfig.cache
+F:\cse\3.2\SD\QuizApp\QuizApp\obj\Debug\net8.0\ref\QuizApp.dll
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\bin\Debug\net8.0\appsettings.json
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.staticwebassets.runtime.json
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.staticwebassets.endpoints.json
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.exe
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.deps.json
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.dll
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.pdb
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.RazorAssemblyInfo.cache
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.RazorAssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\scopedcss\bundle\QuizApp.styles.css
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\scopedcss\projectbundle\QuizApp.bundle.scp.css
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.dll
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\refint\QuizApp.dll
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.pdb
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\medha\QuizApp\QuizApp\obj\Debug\net8.0\ref\QuizApp.dll
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\bin\Debug\net8.0\appsettings.json
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.staticwebassets.endpoints.json
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.staticwebassets.runtime.json
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.exe
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.deps.json
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.dll
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.pdb
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.RazorAssemblyInfo.cache
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.RazorAssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\scopedcss\bundle\QuizApp.styles.css
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\scopedcss\projectbundle\QuizApp.bundle.scp.css
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.dll
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\refint\QuizApp.dll
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.pdb
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\medha\A1_20220104001_QuizApp\QuizApp\obj\Debug\net8.0\ref\QuizApp.dll
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\bin\Debug\net8.0\appsettings.Development.json
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\bin\Debug\net8.0\appsettings.json
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.staticwebassets.endpoints.json
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.staticwebassets.runtime.json
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.exe
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.deps.json
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.runtimeconfig.json
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.dll
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\bin\Debug\net8.0\QuizApp.pdb
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.AssemblyInfoInputs.cache
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.AssemblyInfo.cs
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.csproj.CoreCompileInputs.cache
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.RazorAssemblyInfo.cache
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.RazorAssemblyInfo.cs
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\scopedcss\bundle\QuizApp.styles.css
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\scopedcss\projectbundle\QuizApp.bundle.scp.css
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.build.json
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.development.json
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.dll
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\refint\QuizApp.dll
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.pdb
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.genruntimeconfig.cache
+E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\ref\QuizApp.dll

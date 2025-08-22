@@ -1,0 +1,80 @@
+﻿@model QuizApp.Models.QuizSubmission
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Take the Quiz</h3>
+
+<div class="card mb-3 p-3" style="background-color: #FFFFFC">
+    <h5><strong>Quiz Information</strong></h5>
+    <p><strong>Category :</strong> Brain Teaser MCQs </p>
+    <p><strong>Time Limit :</strong> 1 minutes</p>
+    <p><strong>Total Questions :</strong> @Model.Questions.Count</p>
+    <p><strong>Time Left :</strong> <span id="timer">01:00</span></p>
+</div>
+
+<form id="quizForm" asp-action="Submit" method="post">
+    @foreach (var q in Model.Questions)
+    {
+        @Html.Partial("_Question", q)
+    }
+
+    <div class="d-flex justify-content-between mt-3">
+        <button type="button" class="btn back-btn" onclick="history.back()">Back</button>
+        <button type="submit" class="btn pastel-btn">Submit</button>
+    </div>
+</form>
+
+<style>
+    .pastel-btn {
+        background-color: #4c94fc;
+        color: Black;
+        border: none;
+        padding: 10px 40px;
+        transition: background-color 0.3s ease;
+    }
+
+        .pastel-btn:hover {
+            background-color: #ee3e38;
+            color: white;
+        }
+
+    .back-btn {
+        background-color: #4c94fc;
+        color: black;
+        border: none;
+        padding: 10px 40px;
+        transition: background-color 0.3s ease;
+    }
+
+        .back-btn:hover {
+            background-color: #ee3e38;
+            color: white;
+        }
+</style>
+
+<script>
+    
+    var timeLeft = 60;
+
+    var timerElement = document.getElementById("timer");
+    var form = document.getElementById("quizForm");
+
+    var countdown = setInterval(function () {
+        var minutes = Math.floor(timeLeft / 60);
+        var seconds = timeLeft % 60;
+
+        // Add leading zero if seconds < 10
+        if (seconds < 10) seconds = "0" + seconds;
+        if (minutes < 10) minutes = "0" + minutes;
+
+        timerElement.textContent = minutes + ":" + seconds;
+
+        if (timeLeft <= 0) {
+            clearInterval(countdown);
+            form.submit();
+        }
+
+        timeLeft -= 1;
+    }, 1000);
+</script>
