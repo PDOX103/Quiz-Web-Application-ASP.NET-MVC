@@ -130,3 +130,37 @@ E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\refint\QuizA
 E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.pdb
 E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\QuizApp.genruntimeconfig.cache
 E:\Semester 3.2\SD Lab\20220104103_QuizApp\QuizApp\obj\Debug\net8.0\ref\QuizApp.dll
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\bin\Debug\net8.0\appsettings.Development.json
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\bin\Debug\net8.0\appsettings.json
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\bin\Debug\net8.0\QuizApp.staticwebassets.runtime.json
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\bin\Debug\net8.0\QuizApp.staticwebassets.endpoints.json
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\bin\Debug\net8.0\QuizApp.exe
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\bin\Debug\net8.0\QuizApp.deps.json
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\bin\Debug\net8.0\QuizApp.runtimeconfig.json
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\bin\Debug\net8.0\QuizApp.dll
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\bin\Debug\net8.0\QuizApp.pdb
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\QuizApp.AssemblyInfoInputs.cache
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\QuizApp.AssemblyInfo.cs
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\QuizApp.csproj.CoreCompileInputs.cache
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\QuizApp.MvcApplicationPartsAssemblyInfo.cache
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\QuizApp.RazorAssemblyInfo.cache
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\QuizApp.RazorAssemblyInfo.cs
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\QuizApp.sourcelink.json
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\scopedcss\bundle\QuizApp.styles.css
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\scopedcss\projectbundle\QuizApp.bundle.scp.css
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\staticwebassets.build.json
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\staticwebassets.development.json
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\QuizApp.dll
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\refint\QuizApp.dll
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\QuizApp.pdb
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\QuizApp.genruntimeconfig.cache
+E:\APP2\Quiz-Web-Application-ASP.NET-MVC\QuizApp\obj\Debug\net8.0\ref\QuizApp.dll
