@@ -1,1 +1,11 @@
+# Auto detect text files and normalize line endings
+* text=auto
+
+# Treat C#, VB, F#, and other source files as text
+*.cs diff=csharp
+*.vb diff=vb
+*.fs diff=fsharp
+*.xaml diff=xml
+*.csproj diff=xml
+*.sln merge=union
 
